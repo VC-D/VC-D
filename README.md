@@ -25,7 +25,7 @@ I am also an open-source enthusiast, since I've learned a lot from the open-sour
 - ⚡ Checkout my LinkedIn profile: [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas)
 - 📝 [Resume](CV_.pdf)
 
-<img align="right" alt="GIF" src="img/codegif.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="img/data.webp?raw=true" width="500" height="320" />
 
 **Languages and Tools:** 
 
