@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Bill](https://VC-D.github.io/)! 😁
+### Hi there 👋, I am [Bill](https://github.com/VC-D)! 😁
 <!--
 **VC-D/VC-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
