@@ -21,16 +21,16 @@ Hello, my name is Vasilis - Christos Dragkolas and I am
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: v.c.dragk@gmail.com
 - 😄 Pronouns: Data Analyst/He
-- ⚡ Fun fact: Checkout my [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas) Community if you are ambitious!
-- 📝 [CV](https://VC-D.github.io/media/CV_.pdf)
+- ⚡ Fun fact: Checkout my LinkedIn profile: [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas)
+- 📝 [Resume](CV_.pdf)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="img/codegif.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/GitHub/GitHub.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/LATEX/LATEX.png"></code>
+<code><img height="20" src="img/sql.jpg"></code>
+<code><img height="20" src="img/python.png"></code>
+<code><img height="20" src="img/r.png"></code>
+<code><img height="20" src="img/git.png"></code>
+<code><img height="20" src="img/github.png"></code>
+<code><img height="20" src="img/latex.png"></code>
