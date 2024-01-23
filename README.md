@@ -35,7 +35,7 @@ I am also an open-source enthusiast, since I've learned a lot from the open-sour
 <code><img height="30" src="img/tableau.jpg"></code>
 <code><img height="25" src="img/git.jpg"></code>
 <code><img height="25" src="img/github.png"></code>
-<code><img height="30" width="40" src="img/latex.png"></code>
+<code><img height="25" width="40" src="img/latex.png"></code>
 
 <br>
 <br>
