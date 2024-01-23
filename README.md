@@ -31,7 +31,7 @@ Hello, my name is Vasilis - Christos Dragkolas and I am
 <code><img height="20" src="img/sql.jpg"></code>
 <code><img height="20" src="img/python.png"></code>
 <code><img height="20" src="img/r.png"></code>
-<code><img height="40" src="img/tableau.jpg"></code>
+<code><img height="25" src="img/tableau.jpg"></code>
 <code><img height="20" src="img/git.jpg"></code>
 <code><img height="20" src="img/github.png"></code>
 <code><img height="20" width="40" src="img/latex.png"></code>
