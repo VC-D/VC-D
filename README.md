@@ -23,7 +23,7 @@ I am also an open-source enthusiast, since I've learned a lot from the open-sour
 - 📫 How to reach me: v.c.dragk@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Checkout my LinkedIn profile: [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas)
-- 📝 [Resume](CV_.pdf)
+- 📝 [Resume](https://drive.google.com/file/d/1dvFkLoNXU2NTYhg-mZq1S20sDIQQAnqM/view?usp=sharing)
 
 <img align="right" alt="GIF" src="img/data.webp?raw=true" width="500" height="320" />
 
