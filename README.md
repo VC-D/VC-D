@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Vasilis - Christos Dragkolas and I am
+Hello, my name is Vasilis - Christos Dragkolas and I am a master's degree alumnus at [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en/), majoring in Information Systems & Management.
+I am also an open-source enthusiast, since I've learned a lot from the open-source community and passion about collaboration and knowledge sharing throughout open-source.
 
-- 🔭 I’m currently 
-- 💬 Brainstorm with me over tech, algorithms, career and music 
+- 🔭 I’m currently looking actively for a job abroad (Europe) in Databases or/and Data Analysis
+- 💬 Brainstorm with me over tech, data science, career and music 
 - 📫 How to reach me: v.c.dragk@gmail.com
-- 😄 Pronouns: Data Analyst/He
+- 😄 Pronouns: He/Him/His
 - ⚡ Checkout my LinkedIn profile: [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas)
 - 📝 [Resume](CV_.pdf)
 
