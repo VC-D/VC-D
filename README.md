@@ -38,4 +38,8 @@ I am also an open-source enthusiast, since I've learned a lot from the open-sour
 <code><img height="25" width="40" src="img/latex.png"></code>
 
 
+
+
+
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVC-D%2FVC-D&labelColor=%23697689&countColor=%23263759&style=plastic&labelStyle=upper)
