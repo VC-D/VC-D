@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Vasilis - Christos Dragkolas and I am a master's degree alumnus at [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en/), majoring in Networks and Relational Database Systems.
+Hello, my name is Vasilis - Christos Dragkolas and I am a master's degree alumnus of [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en/), majoring in Networks and Relational Database Systems.
 I am also an open-source enthusiast, since I've learned a lot from the open-source community and its passion about collaboration and knowledge sharing throughout open-source.
 
 - 🔭 I’m currently looking actively for a job abroad (Europe) in Databases or/and Data Analysis
