@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 Hello, my name is Vasilis - Christos Dragkolas and I am a master's degree alumnus of [Aristotle University of Thessaloniki](http://www.csd.auth.gr/en/), majoring in Networks and Relational Database Systems.
 I am also an open-source enthusiast, since I've learned a lot from the open-source community and its passion about collaboration and knowledge sharing throughout open-source.
 
-- 🔭 I’m currently looking actively for a job abroad (Europe) in IT operations
+- 🔭 I’m currently looking actively for a job abroad (Europe) regarding IT operations
 - 💬 Brainstorm with me over tech, software/hardware, career and music 
 - 📫 How to reach me: v.c.dragk@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Checkout my LinkedIn profile: [Vasilis Dragkolas](https://www.linkedin.com/in/dragkolas)
-- 📝 [Resume](https://drive.google.com/file/d/1kJ38vegJL0dqsCpkIjgbZ6qdMj9qpRR5/view?usp=drive_link)
+- 📝 [Resume]([https://drive.google.com/file/d/1kJ38vegJL0dqsCpkIjgbZ6qdMj9qpRR5/view?usp=drive_link](https://drive.google.com/file/d/1vdmqQlPMuKOhEgVyA43QGuS9w16vFhjZ/view?usp=drive_link))
 
 <img align="right" alt="GIF" src="img/data.gif?raw=true" width="460" height="280" />
 
